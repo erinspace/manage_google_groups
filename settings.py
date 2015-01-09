@@ -1,0 +1,3 @@
+# Google Client ID and Client Secret
+CLIENT_ID = 'YOUR-CLIENT-ID-HERE'
+CLIENT_SECRET = 'YOUR-CLIENT-SECRET-HERE'
